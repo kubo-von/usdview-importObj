@@ -1,0 +1,16 @@
+{
+    "Plugins": [
+        {
+            "Type": "python",
+            "Name": "importObj",
+            "Info": {
+                "Types": {
+                    "importObj.importObjContainer": {
+                        "bases": ["pxr.Usdviewq.plugin.PluginContainer"],
+                        "displayName": "Usdview import Obj Plugin"
+                    }
+                }
+            }
+        }
+    ]
+}
